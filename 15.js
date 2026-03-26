@@ -6,4 +6,4 @@ if (salario => 3000) {
     console.log(`Médio`);
 } else {
     console.log(`Baixo`);
-}
+} 
