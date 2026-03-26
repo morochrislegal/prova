@@ -5,5 +5,5 @@ if (num1 => 8) {
 } else if (num1 => 6) {
     console.log(`Satisfatório`)
 } else {
-    console.log(Ínsuficiente)
+    console.log(`Insuficiente`)
 }
