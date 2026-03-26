@@ -1,9 +1,9 @@
-let numero = 15; 
+let num1 = 15; 
 
-if (numero % 3 === 0) {
-    console.log(numero + " é divisível por 3");
+if (num1 % 3 === 0) {
+    console.log(`o numero ${num1} é divisivel por 3`);
 } else {
-    console.log(numero + " não é divisível por 3");
+    console.log(`o numero ${num1}não é divisivel por 3`);
 }
 
 
